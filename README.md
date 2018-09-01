@@ -4,8 +4,9 @@ and generate some relation between certain items
 
 # Dataset
 
-Cardinality: 7501
-No. of Columns: 19
+- Cardinality: 7501
+- No. of Columns: 19
+
 Each row represents purchases of customer
 
 # Result
